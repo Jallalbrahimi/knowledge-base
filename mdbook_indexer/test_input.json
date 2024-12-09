@@ -1,0 +1,16 @@
+
+{
+    "ctx": {
+        "config": {
+            "book": {
+                "title": "Test Book"
+            }
+        },
+        "root": ".",
+        "destination": "./book",
+        "renderer": "html"
+    },
+    "book": {
+        "sections": []
+    }
+}
