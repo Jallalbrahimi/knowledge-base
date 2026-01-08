@@ -1,0 +1,32 @@
+{
+    "siteTitle": "Notes",
+    "siteDescription": "Some notes about IT",
+    "author": "Jallal BRAHIMI",
+    "faviconUrl": "/assets/myfavicon.png",
+    "blogTitle": "Blog",
+    "blogDescription": "Daily notes",
+    "productionUrl": "https://kb.jallalbrahimi.com",
+    "customLinks": [
+        {
+            "url": "/feed.xml",
+            "text": "Atom feed"
+        },
+        {
+            "url": "https://github.com/ita-design-system/eleventy-libdoc",
+            "text": "GitHub"
+        },
+        {
+            "url": "#",
+            "text": "Bluesky"
+        },
+        {
+            "url": "#",
+            "text": "LinkedIn"
+        },
+        {
+            "url": "#",
+            "text": "CodePen"
+        }
+    ],
+    "editThisPageRootUrl": "https://github.com/jallalbrahimi/knowledge-base/blob/main"
+}
