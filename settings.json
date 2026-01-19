@@ -12,20 +12,8 @@
             "text": "Atom feed"
         },
         {
-            "url": "https://github.com/ita-design-system/eleventy-libdoc",
+            "url": "https://github.com/Jallalbrahimi/knowledge-base",
             "text": "GitHub"
-        },
-        {
-            "url": "#",
-            "text": "Bluesky"
-        },
-        {
-            "url": "#",
-            "text": "LinkedIn"
-        },
-        {
-            "url": "#",
-            "text": "CodePen"
         }
     ],
     "editThisPageRootUrl": "https://github.com/jallalbrahimi/knowledge-base/blob/main"

@@ -8,6 +8,7 @@ eleventyNavigation:
     parent: Hello Child
 tags:
     - blockquote
+draft: true
 ---
 > Howdy! I am the page child of hello child.
 > 

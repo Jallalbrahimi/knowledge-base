@@ -9,6 +9,7 @@ eleventyNavigation:
 tags:
     - syntax-highlighting
     - blockquote
+draft: true
 ---
 > Howdy! I am the page child of hello page.
 > 

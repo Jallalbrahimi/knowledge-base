@@ -5,6 +5,7 @@ layout: libdoc_page.liquid
 permalink: index.html
 tags:
     - widgets
+draft: true
 ---
 {% alert 'It seems to be the beginning of a great documentation story!', 'success', 'Howdy!' %}
 
